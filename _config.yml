@@ -1,0 +1,3 @@
+remote_theme: edwardkenfox/not-pure-poole
+plugins:
+  - jekyll-remote-theme

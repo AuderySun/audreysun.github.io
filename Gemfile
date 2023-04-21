@@ -1,1 +1,3 @@
-gem 'jekyll-remote-theme', '~> 0.4.3'
+source "https://rubygems.org"
+
+gem 'jekyll-remote-theme'

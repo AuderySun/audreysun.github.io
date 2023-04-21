@@ -1,1 +1,1 @@
-gem 'jekyll-remote-theme'
+gem 'jekyll-remote-theme', '~> 0.4.3'

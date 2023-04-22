@@ -71,3 +71,8 @@ $sm-width: 35.5rem;
 $md-width: 48rem;
 $lg-width: 64rem;
 $xl-width: 80rem;
+
+[data-theme='blue'] {
+  --body-color: var(--blue-700);
+  --body-bg: var(--blue-100);
+}

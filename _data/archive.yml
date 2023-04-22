@@ -9,3 +9,11 @@
 - type: Publications
   title: Publications
   url: /publications/
+
+- type: Projects
+  title: Projects
+  url: /projects/
+
+-type:CV
+ title: CV
+ url: /cv/

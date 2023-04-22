@@ -3,6 +3,4 @@ layout: page
 title: About
 ---
 
-**Not Pure Poole** is a simple, beautiful, and powerful Jekyll theme for blogs. It is built on [Poole](https://github.com/poole/poole) and [Pure](https://purecss.io/).
-
-For more information about Not Pure Poole, please browse the [README](https://github.com/vszhub/not-pure-poole) file.
+**Yanjun Sun** is a second year PhD student at Keio University, she is interested in the field of vision and language. She is currently working on Embodied AI. She is a member of [Aoki Media Sensing Lab](https://aoki-medialab.jp/).

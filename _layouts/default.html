@@ -3,6 +3,14 @@
 
   {% include head.html %}
 
+  <ul>
+    {% for page in site.header_pages %}
+      {% assign p = site.pages | where: "path", page | first %}
+      <li><a href="{{ p.url }}">{{ p.title }}</a></li>
+    {% endfor %}
+  </ul>
+
+
   <body>
 
     <div class="container pure-g">

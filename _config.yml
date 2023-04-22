@@ -30,14 +30,14 @@ exclude:
 
 # Optimize Jekyl SEO Tag
 twitter:
-  username: vszhub
+  username: audrey_sun
   card: summary
 logo: logo.png
 social:
   name: Yanjun Sun
   links:
-    - https://twitter.com/vszhub
-    - https://github.com/vszhub
+    - https://twitter.com/AudreySun12
+    - https://github.com/AuderySun
 google_site_verification: xxxxx
 lang: en
 

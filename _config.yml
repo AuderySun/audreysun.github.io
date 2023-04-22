@@ -47,6 +47,7 @@ sass:
 
 
 header_pages:
+  - index.html
   - about.md
   - publications.md
   - projects.md
